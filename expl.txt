@@ -1,0 +1,21 @@
+This C++ program is a Stadium Seating Management System that helps users book seats, check seating arrangements, and view ticket holder details. Here’s a simple breakdown of its features:
+
+Seat Booking
+
+Users can book a seat in one of three categories: VIP, Regular, or Economy.
+It collects ticket holder details like name, age, unique ID (UID), and whether they are with family.
+It assigns the ticket to the first available seat in the chosen category.
+View Seating Arrangements
+
+Shows which seats are booked or empty for each category.
+Seats are displayed in rows of 5 for better readability.
+Check Seat Details
+
+Users can select a specific seat number to see who booked it.
+If a seat is empty, it informs the user.
+If booked, it displays the ticket holder’s name, age, UID, and family status.
+User-Friendly Menu
+
+A simple menu-driven system allows users to choose options easily.
+The program runs in a loop until the user chooses to exit.
+This program simulates a basic stadium booking system and can be improved by adding features like cancellation, advanced seat selection, or a graphical interface.
